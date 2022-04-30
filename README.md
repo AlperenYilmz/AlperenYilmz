@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alperen
-- 👀 I’m interested in Java,Python and C# with game development tools
+- 👀 I’m interested in Java, Python and C#
 - 🌱 I’m currently learning Java
