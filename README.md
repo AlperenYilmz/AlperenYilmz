@@ -1,3 +1,5 @@
+# IMPORTANT! MY PROFILE IS UNDER HEAVY MAINTENANCE RN, AND WILL BE FOR A WHILE #
+
 #  About... #
 - 👋 Hi, I’m Alperen
 - :robot: I'm an EEE student at ESOGU, from Turkey :tr:
