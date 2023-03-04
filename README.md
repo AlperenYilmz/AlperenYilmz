@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alperen
 - :robot: I'm an EEE student at ESOGU, from Turkey :tr:
 - 👀 I’m interested in Java, Python and C++
-- 🌱 I’m currently learning Java and HTML
+- 🌱 I’m currently learning Java and Python
 - Also, I'm a musician and a self-taught semi-professional luthier.
 
 <h3 align="left">Connect with me:</h3>
