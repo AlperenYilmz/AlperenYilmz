@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alperen
-- :robot: I'm an EEE student at ESOGU, from Turkey :tr:
-- 👀 I’m interested in Embedded Systems, Python, C and C++
-- 🌱 I’m currently learning C and C++
+- 👀 I’m interested in Embedded Systems, Electronics and Software
+- 🌱 I’m currently learning C, C++, Java and Python
 - Also, I'm a musician and a self-taught semi-professional luthier.
 
 <h3 align="left">Contact me:</h3>
