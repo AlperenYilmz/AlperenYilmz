@@ -1,8 +1,10 @@
 <h3 align="left">About me:</h3>
-- 👋 Hi, I’m Alperen
-- 👀 I’m interested in Embedded Systems, Electronics and Software
-- 🌱 I’m currently learning C, C++, Java and Python
-- Also, I'm a musician and a self-taught semi-professional luthier.
+<ul>
+  <li>👋 Hi, I’m Alperen. I am an Electrical & Electronics Engineer</li>
+  <li>👀 I’m interested in Embedded Systems, Electronics and Software</li>
+  <li>🌱 I’m currently learning C, C++, Java and Python</li>
+  <li>Also, I'm a musician and a self-taught semi-professional luthier.</li>
+</ul>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
