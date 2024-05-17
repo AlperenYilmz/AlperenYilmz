@@ -1,3 +1,4 @@
+<h3 align="left">About me:</h3>
 - 👋 Hi, I’m Alperen
 - 👀 I’m interested in Embedded Systems, Electronics and Software
 - 🌱 I’m currently learning C, C++, Java and Python
