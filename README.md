@@ -21,4 +21,4 @@
 <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/41542217?s=200&v=4" alt="stm32" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenYilmz&size_weight=0.8&count_weight=0.2&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenYilmz&size_weight=0.6&count_weight=0.4&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
