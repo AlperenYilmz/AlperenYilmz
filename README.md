@@ -1,8 +1,7 @@
 <h3 align="left">About me:</h3>
 <ul>
   <li>👋 Hi, I’m Alperen. I am an Electrical & Electronics Engineer</li>
-  <li>👀 I’m interested in Embedded Systems, Electronics and Software</li>
-  <li>🌱 I’m currently learning C, C++, Java and Python</li>
+  <li>👀 I’m interested in Embedded Systems, Robotics, Microelectronis and Software Programming</li>
   <li>Also, I'm a musician and a self-taught semi-professional luthier.</li>
 </ul>
 
@@ -12,13 +11,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<p align="left">  
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlperenYilmz/test_repo/blob/main/altium-designer.png" alt="altium" width="40" height="40"/> </a>  <a href="https://www.microchip.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AlperenYilmz/test_repo/blob/main/mplab-x-ide-logo.png" alt="mplabide" width="40" height="40"/> </a>
-<a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/41542217?s=200&v=4" alt="stm32" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.microchip.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png" alt="mplabide" width="40" height="40"/> </a>
+<a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/STMicroelectronics-Logo.svg/1488px-STMicroelectronics-Logo.svg.png?20150525101621" alt="stm32" width="40" height="40"/> </a>
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" alt="ros2" width="40" height="40"/> </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlperenYilmz&size_weight=0.6&count_weight=0.4&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
