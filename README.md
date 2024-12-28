@@ -1,7 +1,7 @@
 <h3 align="left">About me:</h3>
 <ul>
   <li>👋 Hi, I’m Alperen. I am an Electrical & Electronics Engineer</li>
-  <li>👀 I’m interested in Embedded Systems, Robotics, Microelectronis and Software Programming</li>
+  <li>👀 I’m interested in Embedded Systems, Robotics, Microelectronics and Software Programming</li>
   <li>Also, I'm a musician and a self-taught semi-professional luthier.</li>
 </ul>
 
